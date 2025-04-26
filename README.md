@@ -75,14 +75,19 @@ python screen_asis.py
  ```
 
 
-👨‍💻 Developed By Eng. Ahmed Zeyad Tareq 📌 Data Scientist | 🎓 Master of AI Engineering
+👨‍💻 Developed By
+Eng. Ahmed Zeyad Tareq
+📌 Data Scientist | 🎓 Master of AI Engineering
 
-📷 Instagram: @adlm7
+📷 Instagram: @adlm7<br>
 
-🔗 LinkedIn: AhmedZeyadTareq
+🔗 LinkedIn: [AhmedZeyadTareq](https://www.linkedin.com/in/ahmed-zeyad-tareq)<br>
 
-📊 Kaggle: AhmedZeyadTareq
+📊 Kaggle:  [AhmedZeyadTareq](https://www.kaggle.com/ahmedzeyadtareq)<br>
 
-📄 License MIT License © Ahmed Zeyad Tareq
+
+📄 License
+MIT License © Ahmed Zeyad Tareq
+
 
 🌟 Support If you like this project, give it a ⭐ on GitHub and share Got ideas for improvements? Feel free to open a Pull Request or create an Issue. 🚀
